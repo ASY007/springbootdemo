@@ -1,4 +1,4 @@
-package com.asy.employee.operation.employeeoperations;
+package com.asy.employee.operation.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
